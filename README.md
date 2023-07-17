@@ -1,2 +1,2 @@
 # Hello, World!
- First repository, learning
+ My first GitHub repository, learning by GustavoGuanabara.
